@@ -2,7 +2,7 @@
  
 This is a project by the students of Computer Science at the Adamson University for the subject Software Engineering. This aims to learn new technqiues on how to collaborate with other team members. 
 
-Game Mechanics:
+afdafafGame Mechanics:
 The player needs to supply a word that starts with the last letter of the previous word within the time limit (10sec).
 
 Highest Scorer Mode:
