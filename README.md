@@ -11,7 +11,7 @@ The players must earn the highest score within 10 rounds by supplying longer wor
 Last Man Standing Mode:
 The time limit here will be shorter compared to the Highest Scorer Mode. The player needs to supply a word as fast as possible while complying with the game mechanics.
 
-hi
+hi test
 
 
 ...
